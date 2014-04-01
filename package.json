@@ -1,6 +1,6 @@
 {
   "name": "web.log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "web.log mock the backend system log",
   "main": "index.js",
   "scripts": {
