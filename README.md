@@ -19,6 +19,6 @@ API
     logging.debug "xxx"
     logging.warn  "xxx"
     logging.info  "xxx"
-    logging,log   "xxx"
+    logging.log   "xxx"
     logging.error "xxx"
 
